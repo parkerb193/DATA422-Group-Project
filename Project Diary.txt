@@ -1,0 +1,25 @@
+Meeting Date: 22nd September 2022
+
+Overview
+First official group meeting. Discussed initial project ideas and narrowed these down to three finalists. 
+
+Tasks To Complete
+Research potential data sources (gambling) - Ally
+Research potential data sources (running) - Ben
+Research potential data sources (covid)- Marta
+
+Next meeting: 29th September 2022
+_____________________________________________________________________________________________________________________________________________________
+Meeting Date: 29th September 2022
+
+Overview
+We looked at the different potential data sources and decided to use the running idea for the project. 
+Discussed the uses for the running data and how we might augment it with additional sources. 
+
+Tasks To Complete
+Scrape the data for the 13 events from https://runningevents.co.nz/#about - Ally
+Scrape the race data for the 2022 Tauranga Marathon (https://taurangamarathon.nz/) - Ben
+Scrape the weather data for the 2022 Tauranga Marathon (18/09/22) - Marta
+
+Next meeting: Early next week or in the lab session.
+_____________________________________________________________________________________________________________________________________________________
