@@ -23,3 +23,17 @@ Scrape the weather data for the 2022 Tauranga Marathon (18/09/22) - Marta
 
 Next meeting: Early next week or in the lab session.
 _____________________________________________________________________________________________________________________________________________________
+Meeting Date: 3rd October 2022
+
+Overview
+We looked at the data from our proof-of-concept web scraping and agreed that the idea is still feasible.
+Briefly talked about what ethical issues could be discussed in the report, and what needs to go into the report.
+Set-up a shared OneDrive folder for the report document.
+
+Tasks To Complete
+Report section A & B - Ally
+Report section E - Ben
+Report section C (including ethical considerations) - Marta
+
+Next meeting: 6th October 2022 (lab session)
+_____________________________________________________________________________________________________________________________________________________
