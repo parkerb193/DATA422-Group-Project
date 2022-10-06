@@ -37,3 +37,18 @@ Report section C (including ethical considerations) - Marta
 
 Next meeting: 6th October 2022 (lab session)
 _____________________________________________________________________________________________________________________________________________________
+Meeting Date: 6th October 2022
+
+Overview
+Checked with tutor that our idea was suitably complex, and planned what data to collect/what the data model might look like.
+Discussed adding running injury data from NZ govenment ACC datasets.
+Marta has emailed the new member who was added to our group last week, but there has been no response and they were not at today's lab. 
+
+Tasks To Complete
+Data scraping: events - Ally
+Data scraping: results - Ben
+Data scraping: weather - Marta
+Continue with report sections - All
+
+Next meeting: 13th October 2022 (lab session)
+_____________________________________________________________________________________________________________________________________________________
