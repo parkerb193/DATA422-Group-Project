@@ -56,6 +56,21 @@ Note 12th October 2022
 
 Jinhui Ye (who was added to our group two weeks ago) has made contact and we will meet with him during tomorrow's lab session.
 We feel that it is quite late to join the group at this stage of the project as a lot of the work has already been done, 
-but we have been advised to try and accomodate Jinhui and to take note of our various contributions.
+but we have been advised to try and accommodate Jinhui and to take note of our various contributions.
 
+_____________________________________________________________________________________________________________________________________________________
+Meeting Date: 13th October 2022
+
+Overview
+Presented our idea over Zoom to another group. Did not receive any additional feedback.
+Discussed in detail the kinds of columns/formats that would need to be added to the datasets. 
+
+Tasks To Complete
+Data scraping: events - Ally
+Data scraping: results - Ben
+Data scraping: weather (API) - Marta
+Data scraping: injuries (in Julia) - Jinhui
+Continue with report sections - All
+
+Next meeting: 17th October 2022 (evening Zoom session)
 _____________________________________________________________________________________________________________________________________________________
