@@ -74,3 +74,20 @@ Continue with report sections - All
 
 Next meeting: 17th October 2022 (evening Zoom session)
 _____________________________________________________________________________________________________________________________________________________
+Meeting Date: 17th October 2022
+
+Overview
+Outlined the remaining tasks that need to be completed, and planned what to put in the presentation.
+
+Tasks To Complete
+Report Section 2.2 - Marta
+Report Section 4 - Marta/Jinhui
+Report Section 5 - Marta/Jinhui 
+Update ERD - Ben
+Visualisation - Ally 
+Presentation Slides - Marta 
+GitHub repository README - Ben 
+Instructions for accessing GitHub - Ben 
+
+Next meeting: 19th October 2022 (evening Zoom session)
+_____________________________________________________________________________________________________________________________________________________
