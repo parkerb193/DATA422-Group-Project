@@ -91,3 +91,14 @@ Instructions for accessing GitHub - Ben
 
 Next meeting: 19th October 2022 (evening Zoom session)
 _____________________________________________________________________________________________________________________________________________________
+Meeting Date: 19th October 2022
+
+Overview
+Planned the presentation and discussed what work needs to be done in time for the submission. 
+
+Tasks To Complete
+Update injuries notebook - Jinhui
+Update ERD (once the injuries notebook is done) - Ben
+ 
+Next meeting: 20th October 2022 (Zoom session to run through presentation)
+_____________________________________________________________________________________________________________________________________________________
